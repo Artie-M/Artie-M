@@ -1,2 +1,2 @@
-🎈 Hello, my name is Artem.\n
-👨🏻‍🎓 I'm studying to be a Software Engineer.
+* 🎈 Hello, my name is Artem.
+* 👨🏻‍🎓 I'm studying to be a Software Engineer.
